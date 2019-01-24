@@ -6,12 +6,14 @@ Clone this repository
 _Install Virtualenv and activate it.
 _Make sure you are in the todobackend then run: 
 
-```pip install -r requirements
+```
+pip install -r requirements
+
 ```
 
-_Then: `python manage.py runserver`
+__Then: `python manage.py runserver`
 
-_Open another terminal and cd into "todo" the react folder. Run `npm install` on successful installation run `npm start`
+__Open another terminal and cd into "todo" the react folder. Run `npm install` on successful installation run `npm start`
 
 Viola, you are good to go.
 
